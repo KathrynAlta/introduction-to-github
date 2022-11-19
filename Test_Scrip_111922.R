@@ -4,4 +4,7 @@
  
  # Airport Katie 
  18 - 6
-s 
+
+ 
+ mylist <- c(3, 6, 4, 8, 12)
+mean(mylist) 
